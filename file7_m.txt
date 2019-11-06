@@ -1,1 +1,3 @@
 file7_m.line1: feature_b3: new line`
+union
+file7_m.line1: master: new line
