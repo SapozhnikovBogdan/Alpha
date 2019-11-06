@@ -1,1 +1,2 @@
 file7_m.line1
+remote change. new line2
