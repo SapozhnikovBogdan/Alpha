@@ -1,2 +1,3 @@
 file7_m.line1
 master branch new line2
+remote change. new line2
