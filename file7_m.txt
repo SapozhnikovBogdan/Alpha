@@ -1,1 +1,1 @@
-file7_m.line1
+file7_m.line1: master: new line
